@@ -1,3 +1,9 @@
+#Implementar una función que permita ubicar la cantidad de enemigos recibidos por parámetro. 
+def ubicacion(x):
+    x = int(input("deposite la cantidad de enemigos a elección"))
+    for i in range (codenadas_letras):
+        randint: ["A","B","C","D","E","F","G","H","I","J"],["1","2","3","","","",",","","","",",","",])
+
 barco_j1_letra = ""
 barco_j2_numero = ""
 
