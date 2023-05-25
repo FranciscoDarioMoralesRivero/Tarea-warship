@@ -81,5 +81,6 @@ for i in range(cantidad_disparos):
     cordenadas_disparo = str(input("Ingrese una coordenada de la siguiente manera (LETRA,NUMERO):"))
     disparos(cantidad_disparos, cordenadas_disparo_x, cordenadas_disparo_y, cordenadas_enemigos_x, cordenadas_enemigos_y, cordenada_letra, cordenadas_disparo)
 
+# Mostrar el tablero final
 tablero(linea, cantidad, cordenada_letra)
 ubicacion_enemigos(cordenadas_enemigos_x, cordenadas_enemigos_y)
